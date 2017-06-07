@@ -14,7 +14,7 @@ cd healthy && $ react-native run-android （前提有ReactNative应用运行的�
 ```
 运行效果
 
-<img src="./app_run_image/regesiter.png" width = "300" height = "120" alt="CSDN图标" />(./app_run_image/regesiter.png) 
+<img src="./app_run_image/regesiter.png" width = "300" height = "700" alt="注册" />
 ![登录](./app_run_image/login.png) 
 ![首页](./app_run_image/index.png) 
 ![标签](./app_run_image/tag.png) 
