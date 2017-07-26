@@ -1,6 +1,6 @@
 # healthy
 A mobile app based on ReactNative
-#### 简介：健康问题问答APP，含注册，登录。
+#### 简介：问答类APP，含注册，登录。
 
 ### Build Setup
 
